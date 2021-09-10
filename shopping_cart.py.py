@@ -46,6 +46,6 @@ while killswitch == True:
         killswitch = False
 
     else:
-        print("Are you stupid or just ugly? use one of the commands lol")
+        print("No, pick one of the options bruh.")
         command = input("What would you like to do next?")
 
